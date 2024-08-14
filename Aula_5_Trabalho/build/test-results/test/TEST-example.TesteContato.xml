@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="example.TesteContato" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-06-28T22:42:31" hostname="LAB103-07" time="0.068">
+  <properties/>
+  <testcase name="adicionarContato()" classname="example.TesteContato" time="0.029"/>
+  <testcase name="listarContatos()" classname="example.TesteContato" time="0.017"/>
+  <testcase name="testdeletarContato()" classname="example.TesteContato" time="0.003"/>
+  <testcase name="testEditarContato()" classname="example.TesteContato" time="0.002"/>
+  <testcase name="pesquisarContatosporLetra()" classname="example.TesteContato" time="0.008"/>
+  <testcase name="pesquisarContatosporMes()" classname="example.TesteContato" time="0.004"/>
+  <system-out><![CDATA[Contato adicionado com sucesso.
+Contato adicionado com sucesso.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
