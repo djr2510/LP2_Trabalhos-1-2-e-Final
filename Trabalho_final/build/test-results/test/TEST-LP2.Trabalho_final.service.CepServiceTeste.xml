@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LP2.Trabalho_final.service.CepServiceTeste" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-07-17T00:16:53" hostname="PC104-08" time="0.257">
+  <properties/>
+  <testcase name="testaListagemPorUf()" classname="LP2.Trabalho_final.service.CepServiceTeste" time="0.118"/>
+  <testcase name="testaRemover()" classname="LP2.Trabalho_final.service.CepServiceTeste" time="0.019"/>
+  <testcase name="testaListagem()" classname="LP2.Trabalho_final.service.CepServiceTeste" time="0.023"/>
+  <testcase name="testaListagemPorCep()" classname="LP2.Trabalho_final.service.CepServiceTeste" time="0.029"/>
+  <testcase name="testaCadastrar()" classname="LP2.Trabalho_final.service.CepServiceTeste" time="0.026"/>
+  <testcase name="testaListagemPorCidade()" classname="LP2.Trabalho_final.service.CepServiceTeste" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
